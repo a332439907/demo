@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	
 for (int i = 0; i < a.length; i++) {
 	if(a[i].equals("2")){
-		System.out.println("a[i]="+a[i]);
+		System.out.println("a[i]1="+a[i]);
 		break;
 	}
 }
